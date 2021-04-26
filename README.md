@@ -1,3 +1,3 @@
 # Simple-crawler
 
-Simple web crawler for to extract position information in LinkedIn. Forming the results into an excel form.
+Simple web crawler for extracting position information in LinkedIn. Forming the results into an excel form.
